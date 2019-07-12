@@ -1,0 +1,1 @@
+This is Kaitlyn Nolde's first git project!
